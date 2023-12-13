@@ -23,7 +23,7 @@ class UsersSeeder extends Seeder
             'phone' => '3168886468',
             'email' => 'discom.is@gmail.com',
             'email_verified_at' => NULL,
-            'password' => bcrypt('matrix2012'),
+            'password' => bcrypt('emdisoft2020'),
             'two_factor_secret' => NULL,
             'two_factor_recovery_codes' => NULL,
             'two_factor_confirmed_at' => NULL,
